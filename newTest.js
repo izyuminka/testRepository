@@ -1,2 +1,2 @@
-let newTest = require('./testFile.js');
-newTest();
+//let newTest = require('./testFile.js');
+alert("Hello Jenkins!");
