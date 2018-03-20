@@ -1,1 +1,2 @@
-alert('Hello New World!');
+let newTest = require('./testFile.js');
+newTest();
